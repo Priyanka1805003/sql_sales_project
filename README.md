@@ -1,8 +1,8 @@
-#Retail Sales SQL Project
+# Retail Sales SQL Project
 
 This project focuses on data cleaning, exploration, and analysis of a fictional retail sales dataset using SQL. It demonstrates how to query and analyze sales data to extract business insights that could be valuable for decision-making in retail environments.
 
-📂 Project Structure
+# 📂 Project Structure
 sql_retail_sales.sql: 
 
 Main SQL script that:
@@ -15,7 +15,7 @@ Conducts exploratory data analysis (EDA).
 
 Answers key business questions using SQL queries.
 
-🧮 Dataset Overview
+# 🧮 Dataset Overview
 The dataset includes the following columns:
 
 transactions_id (INT): Unique ID for each transaction
@@ -40,7 +40,7 @@ cogs (FLOAT): Cost of goods sold
 
 total_sale (FLOAT): Total sale value
 
-🔍 Key Business Questions Answered
+# 🔍 Key Business Questions Answered
 Sales on a Specific Date
 
 Retrieve all sales made on 2022-11-05.
@@ -65,7 +65,7 @@ Gender-Based Transaction Count
 
 Number of transactions by gender within each product category.
 
-🛠 How to Use
+# 🛠 How to Use
 Load the SQL script in your database management tool (e.g., PostgreSQL, MySQL, SQLite).
 
 Run the statements sequentially to:
@@ -76,7 +76,8 @@ Populate or simulate data if available.
 
 Execute analysis queries.
 
-⚠️ Note: The actual dataset isn't included in the script. You may need to insert sample data to see results.
+# ⚠️ Note: 
+The actual dataset isn't included in the script. You may need to insert sample data to see results.
 
 📈 Future Improvements
 Integrate with a frontend BI tool for visualization (e.g., Power BI, Tableau).
