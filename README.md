@@ -1,8 +1,11 @@
-🛒 Retail Sales SQL Project
+#Retail Sales SQL Project
+
 This project focuses on data cleaning, exploration, and analysis of a fictional retail sales dataset using SQL. It demonstrates how to query and analyze sales data to extract business insights that could be valuable for decision-making in retail environments.
 
 📂 Project Structure
-sql_retail_sales.sql: Main SQL script that:
+sql_retail_sales.sql: 
+
+Main SQL script that:
 
 Creates and sets up the retail_sales table.
 
